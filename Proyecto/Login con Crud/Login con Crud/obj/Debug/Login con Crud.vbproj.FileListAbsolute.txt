@@ -1,0 +1,56 @@
+E:\IvanSantizo\Programas\VB\Login con Crud\Login con Crud\bin\Debug\Login con Crud.exe.config
+E:\IvanSantizo\Programas\VB\Login con Crud\Login con Crud\bin\Debug\Login con Crud.exe
+E:\IvanSantizo\Programas\VB\Login con Crud\Login con Crud\bin\Debug\Login con Crud.pdb
+E:\IvanSantizo\Programas\VB\Login con Crud\Login con Crud\bin\Debug\Login con Crud.xml
+E:\IvanSantizo\Programas\VB\Login con Crud\Login con Crud\obj\Debug\Login con Crud.vbprojResolveAssemblyReference.cache
+E:\IvanSantizo\Programas\VB\Login con Crud\Login con Crud\obj\Debug\Login_con_Crud.Form1.resources
+E:\IvanSantizo\Programas\VB\Login con Crud\Login con Crud\obj\Debug\Login_con_Crud.frmAdministrador.resources
+E:\IvanSantizo\Programas\VB\Login con Crud\Login con Crud\obj\Debug\Login_con_Crud.Resources.resources
+E:\IvanSantizo\Programas\VB\Login con Crud\Login con Crud\obj\Debug\Login con Crud.vbproj.GenerateResource.Cache
+E:\IvanSantizo\Programas\VB\Login con Crud\Login con Crud\obj\Debug\Login con Crud.exe
+E:\IvanSantizo\Programas\VB\Login con Crud\Login con Crud\obj\Debug\Login con Crud.xml
+E:\IvanSantizo\Programas\VB\Login con Crud\Login con Crud\obj\Debug\Login con Crud.pdb
+E:\IvanSantizo\Programas\VB\Login con Crud\Login con Crud\obj\Debug\Login_con_Crud.CrudFactura.resources
+C:\Users\pc27\Downloads\Login con Crud\Login con Crud\bin\Debug\Login con Crud.exe.config
+C:\Users\pc27\Downloads\Login con Crud\Login con Crud\obj\Debug\Login con Crud.exe
+C:\Users\pc27\Downloads\Login con Crud\Login con Crud\obj\Debug\Login con Crud.xml
+C:\Users\pc27\Downloads\Login con Crud\Login con Crud\obj\Debug\Login con Crud.pdb
+C:\Users\pc27\Downloads\Login con Crud\Login con Crud\bin\Debug\Login con Crud.exe
+C:\Users\pc27\Downloads\Login con Crud\Login con Crud\bin\Debug\Login con Crud.pdb
+C:\Users\pc27\Downloads\Login con Crud\Login con Crud\bin\Debug\Login con Crud.xml
+C:\Users\pc27\Downloads\Login con Crud\Login con Crud\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\pc27\Downloads\Login con Crud\Login con Crud\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\pc27\Downloads\Login con Crud\Login con Crud\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pc27\Downloads\Login con Crud\Login con Crud\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pc27\Downloads\Login con Crud\Login con Crud\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pc27\Downloads\Login con Crud\Login con Crud\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pc27\Downloads\Login con Crud\Login con Crud\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pc27\Downloads\Login con Crud\Login con Crud\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pc27\Downloads\Login con Crud\Login con Crud\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pc27\Downloads\Login con Crud\Login con Crud\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pc27\Downloads\Login con Crud\Login con Crud\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pc27\Downloads\Login con Crud\Login con Crud\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\pc27\Downloads\Login con Crud\Login con Crud\obj\Debug\Login con Crud.vbprojResolveAssemblyReference.cache
+C:\Users\pc27\Downloads\Login con Crud\Login con Crud\obj\Debug\Login_con_Crud.CrudFactura.resources
+C:\Users\pc27\Downloads\Login con Crud\Login con Crud\obj\Debug\Login_con_Crud.Form1.resources
+C:\Users\pc27\Downloads\Login con Crud\Login con Crud\obj\Debug\Login_con_Crud.frmAdministrador.resources
+C:\Users\pc27\Downloads\Login con Crud\Login con Crud\obj\Debug\Login_con_Crud.Resources.resources
+C:\Users\pc27\Downloads\Login con Crud\Login con Crud\obj\Debug\Login_con_Crud.Reporte.resources
+C:\Users\pc27\Downloads\Login con Crud\Login con Crud\obj\Debug\Login con Crud.vbproj.GenerateResource.Cache
+C:\Users\pc27\Downloads\Login con Crud\Login con Crud\obj\Debug\RdlCompile.cache
+C:\Users\pc27\Downloads\Login con Crud\Login con Crud\obj\Debug\RdlCompile.compiled
+E:\IvanSantizo\Programas\VB\Login con Crud\Login con Crud\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\IvanSantizo\Programas\VB\Login con Crud\Login con Crud\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\IvanSantizo\Programas\VB\Login con Crud\Login con Crud\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+E:\IvanSantizo\Programas\VB\Login con Crud\Login con Crud\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+E:\IvanSantizo\Programas\VB\Login con Crud\Login con Crud\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+E:\IvanSantizo\Programas\VB\Login con Crud\Login con Crud\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+E:\IvanSantizo\Programas\VB\Login con Crud\Login con Crud\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+E:\IvanSantizo\Programas\VB\Login con Crud\Login con Crud\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+E:\IvanSantizo\Programas\VB\Login con Crud\Login con Crud\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+E:\IvanSantizo\Programas\VB\Login con Crud\Login con Crud\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+E:\IvanSantizo\Programas\VB\Login con Crud\Login con Crud\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+E:\IvanSantizo\Programas\VB\Login con Crud\Login con Crud\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+E:\IvanSantizo\Programas\VB\Login con Crud\Login con Crud\obj\Debug\Login_con_Crud.Reporte.resources
+E:\IvanSantizo\Programas\VB\Login con Crud\Login con Crud\obj\Debug\RdlCompile.cache
+E:\IvanSantizo\Programas\VB\Login con Crud\Login con Crud\obj\Debug\RdlCompile.compiled
